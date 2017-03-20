@@ -1,0 +1,10 @@
+local.properties
+*.iml
+*.ipr
+*.iws
+.gradle
+/build
+gradle/build
+testapps/*/build
+testapps/multiproject/*/build
+/repo
